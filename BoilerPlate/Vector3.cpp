@@ -2,7 +2,7 @@
 #include <cmath>
 
 
-
+ 
 Vector3::Vector3()
 {
 	X_coordinate = 0.0f;

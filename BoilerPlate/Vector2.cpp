@@ -9,7 +9,7 @@ Vector2::Vector2()
 	Y_coordinate = 0.0f;
 	length = 0.0f;
 }
-
+ 
 Vector2::Vector2(float Assignment)
 {
 	X_coordinate = Assignment;

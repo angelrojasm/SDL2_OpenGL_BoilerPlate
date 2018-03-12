@@ -1,6 +1,6 @@
 #include "Vector4.hpp"
 #include <cmath>
-
+ 
 
 
 Vector4::Vector4()
